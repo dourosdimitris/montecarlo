@@ -7,7 +7,7 @@ Calculate π using the Monte Carlo method.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'montecarlo'
+gem 'montecarlo', git: 'https://github.com/dourosdimitris/montecarlo.git'
 ```
 
 And then execute:
